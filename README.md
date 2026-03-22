@@ -3,11 +3,6 @@
   <img src="https://profile-counter.glitch.me/deivi43/count.svg"/>
   <br/>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=deivi43&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivi43&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deivi43&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
 
 # 💫 About Me:
 I am Deivi Stick Narvaez Tique, a Full Stack developer, specialist in process automation, and a Systems Engineering student based in Bogotá, Colombia. I am currently in my fifth semester of Systems Engineering at CIDE (Corporación Internacional para el Desarrollo Educativo), with a strong focus on web development, networking, cyber security, automation, and applied artificial intelligence.
