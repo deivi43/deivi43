@@ -1,5 +1,7 @@
 # 💫 About Me:
-Soy Deivi Stick Narvaez Tique, desarrollador Full Stack, especialista en automatización de procesos e ingeniero de sistemas en formación, basado en Bogotá, Colombia. Actualmente curso el quinto semestre de Ingeniería de Sistemas en la CIDE (Corporación Internacional para el Desarrollo Educativo), con un enfoque profundo en desarrollo web, redes, ciberseguridad, automatización e inteligencia artificial aplicada.<br>Me defino como alguien autodidacta, proactivo y orientado a resultados. No espero terminar una carrera para aportar valor — lo hago desde ya.
+I am Deivi Stick Narvaez Tique, a Full Stack developer, specialist in process automation, and a Systems Engineering student based in Bogotá, Colombia. I am currently in my fifth semester of Systems Engineering at CIDE (Corporación Internacional para el Desarrollo Educativo), with a strong focus on web development, networking, cyber security, automation, and applied artificial intelligence.
+
+I define myself as self-taught, proactive, and results-oriented. I do not wait to complete a degree to create value — I do it now.
 
 
 # 💻 Tech Stack:
